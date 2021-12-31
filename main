@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="vi" class>
+  <head> </head>
+    <body> 
+      <header>
+       <h1> Cậu Yêu Tớ Đúng Không? </h1>
+       <h4> Nếu cậu không trả lời mà thoát ra thì làm vợ tớ nhé! </h4>
+      </header>
+      <button name="button" value="yes" type="button" onclick="a" style="left: 283.844px; top: 262.8px;">Yêu ơi là yêuuuuuu &lt;333 </button>
+		<script>
+			function a{
+				alert(" Tớ cũng thế ")
+				}
+			</script>
+        <button name="button" value="no" type="button" onclick="b" style="left: 205.171px; top: 21.0378px;">Cậu mơ à :333 </button>
+		<script>
+			function b{
+				alert(" Dỗi ")
+				}
+				</script>
